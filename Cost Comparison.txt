@@ -1,0 +1,8 @@
+If we are using Mixtral 8*7B from Asia Pasific Mumbai, the cost of input tokens/1000 tokens is $0.00054 and the cost of output tokens/1000 tokens is $0.00084
+For example, if we are using 2K tokens as input and 1K token as output, we can get the $0.00192 per hour. For 1 day the cost is $0.0460.
+
+If we are using the Jurassic 2 Ultra model, the cost of input tokens/1000 tokens is $0.0188 and the cost of output tokens/1000 tokens is $0.0188. 
+For example, if we are using 2K tokens as input and 1K token as output, the total cost is $0.0564. 
+
+If we are using Gemini 1.5 Pro, the cost of input tokens/1000 tokens is $0.0035 and the cost of output token/ 1000 tokens is $0.0105. Prompts up to 128k tokens
+For Example, if we are using 2K tokens as input and 1K token as output, the total cost is $0.0175.
